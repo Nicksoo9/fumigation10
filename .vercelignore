@@ -1,0 +1,10 @@
+node_modules
+.git
+.vscode
+README.md
+*.psd
+*.sketch
+*.ai
+*.xcf
+Thumbs.db
+desktop.ini
